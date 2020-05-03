@@ -8,10 +8,10 @@ const theme = {
   background: "#f5f8fb",
   headerFontColor: "#fff",
   headerBgColor: "#090705",
-  botBubbleColor: "#090705",
+  botBubbleColor: "#eaeaea",
   userBubbleColor: "#090705",
   userFontColor: "#fff",
-  botFontColor: "#fff",
+  botFontColor: "#000",
 };
 
 function App() {
